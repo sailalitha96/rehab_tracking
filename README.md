@@ -8,4 +8,6 @@ This can be found in the path_control_motor commands
 
 3. Serial Comunication Motor uses the code for arduino to matlab communication. 
 
-4. The image observed from the kinect sensor is 90 degrees roated to bring it to reference frame we use this function.
+4.  rotate_image.m - The image observed from the kinect sensor is 90 degrees roated to bring it to reference frame we use this function.
+
+
